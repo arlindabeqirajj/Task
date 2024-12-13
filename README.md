@@ -1,4 +1,4 @@
-# Task
+# Software Engineering Internship Assignment
 
 ### In this repository you can find the solution to the tasks: 
 
