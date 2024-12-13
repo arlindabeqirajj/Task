@@ -1,6 +1,7 @@
 # Task
 
-In this repository you can find the solution to the tasks:
+###In this repository you can find the solution to the tasks: 
+
 Task 1: (read)
 Create a component that will list all of bookings as separate links - showing like: 
 A Booking on [date] starting at [start_time]
